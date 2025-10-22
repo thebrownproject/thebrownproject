@@ -23,8 +23,3 @@ I'm a **full-stack developer** with a background in **architectural technology**
 - Building strong foundations in full-stack engineering
 - Learning how production-grade systems are designed and maintained
 - Exploring how AI can be leveraged to automate workflows and create real value for businesses
-
-## 📫 Connect with Me
-
-- [GitHub](https://github.com/thebrownproject)
-- [LinkedIn](https://linkedin.com/in/fraserbrown-au)
