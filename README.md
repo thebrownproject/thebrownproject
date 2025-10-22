@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fraser
 
-I'm a **full-stack developer** with a background in **architectural technology**. I like building real-world solutions that blend software, AI, and hardware (IoT).
+I'm a **full-stack developer** with a background in **architectural technology**. I enjoy building real-world solutions that blend software, AI, and hardware (IoT).
 
 ## 🧰 Tech Stack
 
