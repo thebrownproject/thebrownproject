@@ -1,10 +1,30 @@
-# Hi, I'm Fraser 👋
+# 👋 Hi, I'm Fraser
 
-Full-stack developer with a background in architecture and a passion for AI/ML applications.
+I'm a **full-stack developer** with a background in **architectural technology**. I like building real-world solutions that blend software, AI, and hardware (IoT).
 
-## Tech Stack
+## 🧰 Tech Stack
 
 - **Languages:** TypeScript, Python, C#, SQL
-- **AI/ML:** LangChain, OpenAI API, RAG Pipelines, Pinecone
 - **Frameworks:** Next.js, SvelteKit, ASP.NET Core
-- **Tools:** Git, Jira, Supabase, MQTT
+- **AI/ML:** LangChain, OpenAI Agents SDK, RAG Pipelines
+- **Infra & Tools:** Node.js, Git, Jira, RESTful API, Supabase, Netlify, Vercel
+
+## 🚀 Featured Projects
+
+- [**ShelterSync**](https://github.com/thebrownproject/shelter-sync) – IoT-powered animal shelter management system
+- [**Smart Home IoT System**](https://github.com/thebrownproject/smart-home-iot) _(In Development)_  
+  Distributed IoT system connecting ESP32 devices with a C# REST API and Next.js dashboard.  
+  _C#/.NET · MicroPython · MQTT · Supabase · Next.js_
+- [**Vectory**](https://github.com/thebrownproject/vectory) – RAG pipeline for document vectorization using LangChain
+- [**HeyTasky**](https://github.com/thebrownproject/hey-tasky) – AI-powered task manager built with SvelteKit and OpenAI API
+
+## 🧭 What I'm Focused On
+
+- Building strong foundations in full-stack engineering
+- Learning how production-grade systems are designed and maintained
+- Exploring how AI can be leveraged to automate workflows and create real value for businesses
+
+## 📫 Connect with Me
+
+- [GitHub](https://github.com/thebrownproject)
+- [LinkedIn](https://linkedin.com/in/fraserbrown-au)
