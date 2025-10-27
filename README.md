@@ -16,7 +16,7 @@ Full-stack developer transitioning from architecture, combining 10+ years of pro
 
 ## Featured Projects
 
-### [**Shelter Sync**](https://github.com/team-kangan-dtp/rfid-rabbit-shelter-tracking-system)
+### [**Shelter Sync**](https://github.com/thebrownproject/shelter-sync)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
