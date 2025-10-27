@@ -24,6 +24,8 @@ Full-stack developer transitioning from architecture, combining 10+ years of pro
 
 Animal shelter management system with CRUD operations, real-time RFID tracking, and team collaboration via Agile practices
 
+---
+
 ### [**Vectory**](https://github.com/thebrownproject/vectory)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -31,6 +33,8 @@ Animal shelter management system with CRUD operations, real-time RFID tracking, 
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
 
 RAG document processing pipeline for chunking and vectorizing documents with drag-and-drop upload interface
+
+---
 
 ### [**Smart Home IoT System**](https://github.com/thebrownproject/smart-home-iot) *(In Development)*
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=white)
@@ -40,12 +44,16 @@ RAG document processing pipeline for chunking and vectorizing documents with dra
 
 Distributed IoT system connecting ESP32 microcontroller with multiple sensors and web dashboard via RESTful API and MQTT
 
+---
+
 ### [**RagLit MCP Server**](https://github.com/thebrownproject/raglit-fixed-mcp)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 Model Context Protocol server enabling AI agents to query and interact with PostgREST APIs
+
+---
 
 ### [**HeyTasky**](https://github.com/thebrownproject/hey-tasky)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
