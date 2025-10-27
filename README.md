@@ -17,6 +17,7 @@ Full-stack developer transitioning from architecture, combining 10+ years of pro
 ## Featured Projects
 
 ### [**Shelter Sync**](https://github.com/thebrownproject/shelter-sync)
+
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
@@ -26,7 +27,8 @@ Animal shelter management system with CRUD operations, real-time RFID tracking, 
 
 ---
 
-### [**Smart Home IoT System**](https://github.com/thebrownproject/smart-home-iot) *(In Development)*
+### [**Smart Home IoT System**](https://github.com/thebrownproject/smart-home-iot) _(In Development)_
+
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
@@ -37,6 +39,7 @@ Distributed IoT system connecting ESP32 microcontroller with multiple sensors an
 ---
 
 ### [**Vectory**](https://github.com/thebrownproject/vectory)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -47,6 +50,7 @@ RAG document processing pipeline for chunking and vectorizing documents with dra
 ---
 
 ### [**Hey Tasky**](https://github.com/thebrownproject/hey-tasky)
+
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 
@@ -55,6 +59,7 @@ AI-powered task manager that uses OpenAI API to automatically enhance and restru
 ---
 
 ### [**RagLit MCP Server**](https://github.com/thebrownproject/raglit-fixed-mcp)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
