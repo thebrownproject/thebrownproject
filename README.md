@@ -5,32 +5,53 @@ Full-stack developer transitioning from architecture, combining 10+ years of pro
 ## Tech Stack
 
 **Languages:** TypeScript · Python · C# · SQL · MicroPython
+
 **Frontend:** Next.js · SvelteKit · TailwindCSS
+
 **Backend:** ASP.NET Core · FastAPI · Node.js
+
 **AI/ML:** LangChain · OpenAI API · RAG Pipelines · Vector Databases
+
 **Infrastructure:** Git · Jira · RESTful API · MQTT · Supabase · PostgreSQL
 
 ## Featured Projects
 
 ### [**ShelterSync**](https://github.com/team-kangan-dtp/rfid-rabbit-shelter-tracking-system)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=white)
+
 Animal shelter management system with CRUD operations, real-time RFID tracking, and team collaboration via Agile practices
-`SvelteKit` `TypeScript` `Supabase` `MicroPython` `RFID` `Realtime`
 
 ### [**Vectory**](https://github.com/thebrownproject/vectory)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white)
+
 RAG document processing pipeline for chunking and vectorizing documents with drag-and-drop upload interface
-`Python` `FastAPI` `LangChain` `OpenAI` `Pinecone` `Next.js`
 
 ### [**Smart Home IoT System**](https://github.com/thebrownproject/smart-home-iot) *(In Development)*
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
+
 Distributed IoT system connecting ESP32 microcontroller with multiple sensors and web dashboard via RESTful API and MQTT
-`MicroPython` `C#/.NET` `MQTT` `Next.js` `Supabase`
 
 ### [**RagLit MCP Server**](https://github.com/thebrownproject/raglit-fixed-mcp)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+
 Model Context Protocol server enabling AI agents to query and interact with PostgREST APIs
-`TypeScript` `Node.js` `PostgreSQL` `pgvector` `MCP`
 
 ### [**HeyTasky**](https://github.com/thebrownproject/hey-tasky)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+
 AI-powered task manager that uses OpenAI API to automatically enhance and restructure user task inputs
-`SvelteKit` `TypeScript` `OpenAI API`
 
 ## What I'm Focused On
 
