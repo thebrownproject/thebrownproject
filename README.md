@@ -16,9 +16,9 @@ Full-stack developer transitioning from architecture, combining 10+ years of pro
 
 ## Featured Projects
 
-### [**StackDocs**](https://github.com/thebrownproject/stackdocs-mvp) _(In Development)_
+### [**StackDocs**](https://github.com/thebrownproject/stackdocs) _(In Development)_
 
-AI-powered document data extraction application for converting invoices and receipts into structured CSV/JSON data
+AI-powered document data extraction application for converting unstructured documents into structured CSV/JSON data
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
