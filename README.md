@@ -10,20 +10,21 @@ Full-stack developer transitioning from architecture, combining 10+ years of pro
 
 **Backend:** ASP.NET Core · FastAPI · Node.js
 
-**AI/ML:** LangChain · OpenAI API · RAG Pipelines · Vector Databases
+**AI/ML:** LangChain · OpenAI API · Anthropic Claude API · RAG Pipelines · Vector Databases · OCR
 
 **Infrastructure:** Git · Jira · RESTful API · MQTT · Supabase · PostgreSQL
 
 ## Featured Projects
 
-### [**Shelter Sync**](https://github.com/thebrownproject/shelter-sync)
+### [**StackDocs**](https://github.com/thebrownproject/stackdocs-mvp) _(In Development)_
 
-Animal shelter management system with CRUD operations, real-time RFID tracking, and team collaboration via Agile practices
+AI-powered document data extraction application for converting invoices and receipts into structured CSV/JSON data
 
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 ---
 
@@ -35,6 +36,17 @@ Distributed IoT system connecting ESP32 microcontroller with multiple sensors an
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
+
+---
+
+### [**Shelter Sync**](https://github.com/thebrownproject/shelter-sync)
+
+Animal shelter management system with CRUD operations, real-time RFID tracking, and team collaboration via Agile practices
+
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=white)
 
 ---
 
