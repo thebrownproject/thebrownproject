@@ -28,13 +28,14 @@ AI-powered document data extraction application for converting unstructured docu
 
 ---
 
-### [**Zap Smart Home**](https://github.com/thebrownproject/zap-smart-home) _(In Development)_
+### [**Zap Smart Home**](https://github.com/thebrownproject/zap-smart-home)
 
 Distributed IoT system connecting ESP32 microcontroller with multiple sensors and web dashboard via RESTful API and MQTT
 
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
 
 ---
