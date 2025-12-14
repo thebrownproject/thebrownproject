@@ -28,7 +28,7 @@ AI-powered document data extraction application for converting unstructured docu
 
 ---
 
-### [**Smart Home IoT System**](https://github.com/thebrownproject/smart-home-iot) _(In Development)_
+### [**Zap Smart Home**](https://github.com/thebrownproject/zap-smart-home) _(In Development)_
 
 Distributed IoT system connecting ESP32 microcontroller with multiple sensors and web dashboard via RESTful API and MQTT
 
