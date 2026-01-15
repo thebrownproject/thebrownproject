@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fraser
 
-Full-stack developer transitioning from architecture, combining 10+ years of project delivery experience with modern software development skills. Currently building AI/ML applications and IoT systems while completing Certificate IV in IT (Programming).
+Full-stack engineer transitioning from architecture, combining 10+ years of project delivery experience with modern software development skills. Currently building AI/ML applications and IoT systems while completing Certificate IV in IT (Programming).
 
 ## Tech Stack
 
