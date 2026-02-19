@@ -1,22 +1,22 @@
-# 👋 Hi, I'm Fraser
+# Hi, I'm Fraser
 
-Full-stack engineer transitioning from architecture, combining 10+ years of project delivery experience with modern software development skills. Currently building AI/ML applications and IoT systems while completing Certificate IV in IT (Programming).
+Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of project delivery experience from architecture. Building AI-powered applications and developer tools, with a focus on autonomous agents and real-time systems.
 
 ## Tech Stack
 
-**Languages:** TypeScript · Python · C# · SQL · MicroPython
+**Languages:** TypeScript · Python · C# · SQL
 
-**Frontend:** Next.js · SvelteKit · TailwindCSS
+**Frontend:** Next.js · SvelteKit · TailwindCSS · React Flow
 
-**Backend:** ASP.NET Core · FastAPI · Node.js
+**Backend:** Node.js · FastAPI · ASP.NET Core · WebSockets
 
-**AI/ML:** LangChain · OpenAI API · Anthropic Claude API · RAG Pipelines · Vector Databases · OCR
+**AI/ML:** Claude API · Claude Agent SDK · OpenAI API · LangChain · RAG Pipelines · OCR
 
-**Infrastructure:** Git · Jira · RESTful API · MQTT · Supabase · PostgreSQL
+**Infrastructure:** Supabase · PostgreSQL · SQLite · Fly.io · Vercel · Sprites.dev
 
 ## Featured Projects
 
-### [**StackDocs**](https://github.com/thebrownproject/stackdocs) _(In Development)_
+### [**StackDocs**](https://github.com/thebrownproject/stackdocs)
 
 AI-powered document data extraction application for converting unstructured documents into structured CSV/JSON data
 
@@ -25,6 +25,26 @@ AI-powered document data extraction application for converting unstructured docu
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+
+---
+
+### [**Space Agents**](https://github.com/thebrownproject/space-agents)
+
+Agent orchestration plugin for Claude Code with multi-session persistence, structured exploration, and multi-agent execution via the Ralph loop
+
+![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
+
+---
+
+### [**Age of Agents**](https://github.com/thebrownproject/age-of-agents) · [Play it live](https://ageofagents.vercel.app)
+
+Turn-based strategy game where two LLM agents fight each other in real time. Pick any Claude, GPT, or GLM model for each side and watch them go to war
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ---
 
@@ -83,13 +103,13 @@ Model Context Protocol server enabling AI agents to query and interact with Post
 
 ## What I'm Focused On
 
-- Gaining experience in professional production codebases and Agile workflows
-- Building AI-powered applications that automate workflows and create real business value
-- Learning software architecture patterns and design principles
-- Contributing project coordination experience and technical skills to development teams
+- Building autonomous AI agents that work persistently across sessions
+- Designing real-time systems with WebSockets and per-user compute
+- Creating developer tools that improve AI-assisted workflows
+- Deepening software architecture skills and contributing to professional codebases
 
 ## Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/fraserbrown-dev)
-- 📧 fraserbrown@live.com
-- 📍 Melbourne, Australia
+- [LinkedIn](https://linkedin.com/in/fraserbrown-dev)
+- fraserbrown@live.com
+- Melbourne, Australia
