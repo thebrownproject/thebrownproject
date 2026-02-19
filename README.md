@@ -16,6 +16,18 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 ## Featured Projects
 
+### [**Archie Copilot**](https://github.com/thebrownproject/archie-copilot)
+
+AI-powered Revit 2025 add-in — dockable chat panel that turns natural language into IronPython code, executes it in Revit, and self-corrects on errors automatically
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0C54C2?logo=windows&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?logo=anthropic&logoColor=white)
+![IronPython](https://img.shields.io/badge/IronPython-3776AB?logo=python&logoColor=white)
+
+---
+
 ### [**StackDocs**](https://github.com/thebrownproject/stackdocs)
 
 AI-powered document data extraction application for converting unstructured documents into structured CSV/JSON data
