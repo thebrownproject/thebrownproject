@@ -39,7 +39,7 @@ Agent orchestration plugin for Claude Code with multi-session persistence, struc
 
 ### [**Age of Agents**](https://github.com/thebrownproject/age-of-agents)
 
-[Play it now](https://ageofagents.vercel.app) Turn-based strategy game where two LLM agents fight each other in real time. Pick any Claude, GPT, or GLM model for each side and watch them go to war
+[Play the game](https://ageofagents.vercel.app) Turn-based strategy game where two LLM agents fight each other in real time. Pick any Claude, GPT, or GLM model for each side and watch them go to war
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
