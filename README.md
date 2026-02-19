@@ -18,7 +18,7 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 ### [**Archie Copilot**](https://github.com/thebrownproject/archie-copilot)
 
-AI-powered Revit 2025 add-in — dockable chat panel that turns natural language into IronPython code, executes it in Revit, and self-corrects on errors automatically
+Talk to Revit, it builds. AI agent that turns plain English into executed Revit commands with automatic error recovery
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
