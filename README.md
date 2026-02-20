@@ -18,7 +18,7 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 ### [**Archie Copilot**](https://github.com/thebrownproject/archie-copilot)
 
-Talk to Revit, it builds. AI agent that turns plain English into executed Revit commands with automatic error recovery
+Talk to Revit, it builds. AI agent that turns plain English into executed Autodesk Revit commands with automatic error recovery
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
@@ -44,14 +44,13 @@ AI-powered document data extraction application for converting unstructured docu
 
 Agent orchestration plugin for Claude Code with multi-session persistence, structured exploration, and multi-agent execution via the Ralph loop
 
-![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
 
 ---
 
 ### [**HAL-OS**](https://github.com/thebrownproject/hal-os)
 
-Personal AI operating system for Claude Code with persistent memory across sessions, subsystem apps (calendar, second brain, networking, work PA), and a hybrid search engine built on SQLite + sqlite-vec (vector similarity) + FTS5 (BM25 keyword)
+Personal AI operating system for Claude Code with persistent memory across sessions, subsystem apps (calendar, second brain, networking, work PA), and a hybrid local search engine built on SQLite + sqlite-vec (vector similarity) + FTS5 (BM25 keyword)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
