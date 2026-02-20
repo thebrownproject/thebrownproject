@@ -49,6 +49,16 @@ Agent orchestration plugin for Claude Code with multi-session persistence, struc
 
 ---
 
+### [**HAL-OS**](https://github.com/thebrownproject/hal-os)
+
+Personal AI operating system for Claude Code with persistent memory across sessions, subsystem apps (calendar, second brain, networking, work PA), and a hybrid search engine built on SQLite + sqlite-vec (vector similarity) + FTS5 (BM25 keyword) — no cloud, no API, runs entirely local
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
+
+---
+
 ### [**Age of Agents**](https://github.com/thebrownproject/age-of-agents)
 
 [Play the game](https://ageofagents.vercel.app) Turn-based strategy game where two LLM agents fight each other in real time. Pick any Claude, GPT, or GLM model for each side and watch them go to war
