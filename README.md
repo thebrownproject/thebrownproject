@@ -10,9 +10,9 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 **Backend:** Node.js · FastAPI · ASP.NET Core · WebSockets
 
-**AI/ML:** Claude API · Claude Agent SDK · OpenAI API · LangChain · RAG Pipelines · OCR
+**AI/ML:** Claude API · Claude Agent SDK · OpenAI API · LangChain · RAG Pipelines · Vector Search · OCR
 
-**Infrastructure:** Supabase · PostgreSQL · SQLite · Fly.io · Vercel · Sprites.dev
+**Infrastructure:** Supabase · PostgreSQL · SQLite · Fly.io · Vercel
 
 ## Featured Projects
 
@@ -28,6 +28,18 @@ Talk to Revit. Watch it build. AI agent that turns plain English into executed A
 
 ---
 
+### [**BuildSpec**](https://github.com/thebrownproject/buildspec)
+
+NCC compliance, without leaving Revit. A dockable side panel for Autodesk Revit 2025 that answers National Construction Code questions using RAG with specific section references
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0C54C2?logo=windows&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?logo=postgresql&logoColor=white)
+
+---
+
 ### [**StackDocs**](https://github.com/thebrownproject/stackdocs)
 
 AI-powered document data extraction application for converting unstructured documents into structured CSV/JSON data
@@ -37,6 +49,17 @@ AI-powered document data extraction application for converting unstructured docu
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+
+---
+
+### [**Macaw**](https://github.com/thebrownproject/macaw)
+
+Local text-to-speech for macOS. Highlight text in any app, hear it spoken. Runs entirely on-device with no cloud APIs, ships as a native `.dmg` installer with menubar interface and persistent daemon
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![Kokoro ONNX](https://img.shields.io/badge/Kokoro_ONNX-FF6F00?logo=onnx&logoColor=white)
+![PyObjC](https://img.shields.io/badge/PyObjC-007ACC?logoColor=white)
 
 ---
 
