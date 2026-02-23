@@ -52,9 +52,20 @@ AI-powered document data extraction application for converting unstructured docu
 
 ---
 
+### [**Looped**](https://github.com/thebrownproject/looped)
+
+Local-first AI agent with a custom inference loop, tool execution, and streaming chat UI. Runs on-device with local Ollama models.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
 ### [**Macaw**](https://github.com/thebrownproject/macaw)
 
-Local text-to-speech for macOS. Copy text in any app, then use **Play Copied Text** from the menubar or floating widget to hear it spoken. Runs entirely on-device with no cloud APIs and ships as a native `.dmg` installer with a menubar interface and persistent daemon. [Download latest DMG](https://github.com/thebrownproject/macaw/releases/latest)
+Local text-to-speech for macOS. Copy text in any app, then use Play Copied Text from the menubar or floating widget. Runs entirely on-device and ships as a native `.dmg` installer. [Download latest DMG](https://github.com/thebrownproject/macaw/releases/latest)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
@@ -83,7 +94,7 @@ Personal AI operating system for Claude Code with persistent memory across sessi
 
 ### [**Age of Agents**](https://github.com/thebrownproject/age-of-agents)
 
-[Play here](https://ageofagents.vercel.app) Turn-based strategy game where two LLM agents fight each other in real time. Pick any Claude, GPT, or GLM model for each side and watch them go to war
+Turn-based strategy game where two LLM agents fight each other in real time. Pick any Claude, GPT, or GLM model for each side and watch them go to war. [Play here](https://ageofagents.vercel.app)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
