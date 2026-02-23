@@ -54,7 +54,7 @@ AI-powered document data extraction application for converting unstructured docu
 
 ### [**Macaw**](https://github.com/thebrownproject/macaw)
 
-Local text-to-speech for macOS. Highlight text in any app, hear it spoken. Runs entirely on-device with no cloud APIs, ships as a native `.dmg` installer with menubar interface and persistent daemon
+Local text-to-speech for macOS. Copy text in any app, then use **Play Copied Text** from the menubar or floating widget to hear it spoken. Runs entirely on-device with no cloud APIs and ships as a native `.dmg` installer with a menubar interface and persistent daemon. [Download latest DMG](https://github.com/thebrownproject/macaw/releases/latest)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
