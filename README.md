@@ -54,7 +54,7 @@ AI-powered document data extraction application for converting unstructured docu
 
 ### [**Pulse**](https://github.com/thebrownproject/pulse)
 
-GSC insights dashboard that visualizes Google Search Console data and generates AI-powered SEO analysis using Claude. Built as a timed coding challenge.
+GSC insights dashboard that visualises Google Search Console data and generates AI-powered SEO analysis using Claude. Built as a timed coding challenge.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
