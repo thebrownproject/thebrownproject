@@ -42,13 +42,12 @@ Local-first AI agent with a custom inference loop, tool execution, and streaming
 
 ### [**StackDocs**](https://github.com/thebrownproject/stackdocs)
 
-AI-powered document data extraction application for converting unstructured documents into structured CSV/JSON data
+AI-powered document extraction platform with autonomous agents. Upload documents, extract structured data via Claude Agent SDK with MCP tools, correct results through natural language, and batch-extract across stacks
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-D97757?logo=anthropic&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 ---
 
