@@ -16,6 +16,30 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 ## Featured Projects
 
+### [**Anima**](https://github.com/thebrownproject/anima)
+
+Personal AI computer for document intelligence. Each stack runs a persistent autonomous agent on its own VM with full filesystem, memory, and tools — talk to it and it renders results to a live canvas
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-D97757?logo=anthropic&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-24175B?logo=flydotio&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
+### [**Bashling**](https://github.com/thebrownproject/bashling)
+
+Local-first AI agent with a custom inference loop, tool execution, and streaming chat UI. Runs on-device with local Ollama models
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
 ### [**Archie Copilot**](https://github.com/thebrownproject/archie-copilot)
 
 Talk to Revit. Watch it build. AI agent that turns plain English into executed Autodesk Revit commands with automatic error recovery
@@ -59,17 +83,6 @@ GSC insights dashboard that visualises Google Search Console data and generates 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?logo=anthropic&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-
----
-
-### [**Looped**](https://github.com/thebrownproject/looped)
-
-Local-first AI agent with a custom inference loop, tool execution, and streaming chat UI. Runs on-device with local Ollama models.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ---
