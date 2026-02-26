@@ -40,6 +40,18 @@ Local-first AI agent with a custom inference loop, tool execution, and streaming
 
 ---
 
+### [**StackDocs**](https://github.com/thebrownproject/stackdocs)
+
+AI-powered document data extraction application for converting unstructured documents into structured CSV/JSON data
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+
+---
+
 ### [**Archie Copilot**](https://github.com/thebrownproject/archie-copilot)
 
 Talk to Revit. Watch it build. AI agent that turns plain English into executed Autodesk Revit commands with automatic error recovery
@@ -61,18 +73,6 @@ NCC compliance, without leaving Revit. A dockable side panel for Autodesk Revit 
 ![WPF](https://img.shields.io/badge/WPF-0C54C2?logo=windows&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-316192?logo=postgresql&logoColor=white)
-
----
-
-### [**StackDocs**](https://github.com/thebrownproject/stackdocs)
-
-AI-powered document data extraction application for converting unstructured documents into structured CSV/JSON data
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 ---
 
