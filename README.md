@@ -18,7 +18,7 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 ### [**Anima**](https://github.com/thebrownproject/anima)
 
-Personal AI computer for document intelligence. Each stack runs a persistent autonomous agent on its own VM with full filesystem, memory, and tools — talk to it and it renders results to a live canvas
+Personal AI computer for document intelligence. Each stack runs a persistent autonomous agent on its own VM with full filesystem, memory, and tools - talk to it and it renders results to a live canvas
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
