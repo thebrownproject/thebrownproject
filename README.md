@@ -31,7 +31,7 @@ Personal AI computer for document intelligence. Each stack runs a persistent aut
 
 ### [**Bashling**](https://github.com/thebrownproject/bashling)
 
-Local-first AI agent with a custom inference loop, tool execution, and streaming chat UI. Runs on-device with local Ollama models
+Local AI agent harness with a custom inference loop, tool execution, and streaming chat UI. Runs on-device with Ollama models
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
