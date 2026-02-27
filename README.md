@@ -18,7 +18,7 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 ### [**Anima**](https://github.com/thebrownproject/anima)
 
-Personal AI computer for document intelligence. Each user gets a persistent VM running a Claude-powered agent that learns, remembers, and works autonomously
+Personal AI computer for document intelligence. Each user gets a persistent VM running an autonomous agent that learns, remembers, and works independently
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
