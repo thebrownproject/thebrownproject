@@ -42,7 +42,7 @@ Local AI agent harness with a custom inference loop, tool execution, and streami
 
 ### [**StackDocs**](https://github.com/thebrownproject/stackdocs)
 
-AI-powered document extraction platform with autonomous agents. Upload documents, extract structured data via Claude Agent SDK with custom tools, correct results through natural language, and batch-extract across stacks
+AI-powered document extraction platform that turns unstructured documents into structured data. Autonomous agents extract fields into JSONB with confidence scores, support natural language corrections, and batch-extract across stacks
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
