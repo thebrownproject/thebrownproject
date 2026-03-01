@@ -106,6 +106,17 @@ Agent orchestration plugin for Claude Code with multi-session persistence, struc
 
 ---
 
+### [**Stilts**](https://github.com/thebrownproject/stilts)
+
+Self-improving harness proof of concept that iteratively generates, evaluates, and optimizes LLM prompt/workflow systems. Includes built-in memory, self-authored tool generation, feedback-driven improvement, run replay, skill extraction, and cross-task learning.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-121011?logo=gnubash&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-4B5563?logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
 ### [**HAL-OS**](https://github.com/thebrownproject/hal-os)
 
 Personal AI operating system for Claude Code with persistent memory across sessions, subsystem apps (calendar, second brain, networking, work PA), and a hybrid local search engine built on SQLite + sqlite-vec (vector similarity) + FTS5 (BM25 keyword)
