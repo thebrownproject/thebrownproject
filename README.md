@@ -108,7 +108,7 @@ Agent orchestration plugin for Claude Code with multi-session persistence, struc
 
 ### [**Stilts**](https://github.com/thebrownproject/stilts)
 
-Self-improving harness proof of concept that iteratively generates, evaluates, and optimises LLM prompt/workflow systems. Includes built-in memory, self-authored tool generation, feedback-driven improvement, run replay, skill extraction, and cross-task learning.
+Self-improving harness and autonomous task-learning proof of concept. Stilts now combines iterative harness optimisation with a task-bounded autonomy loop: long-horizon planning, policy-gated environment actions, episodic/semantic memory, approval queues, canary/rollback controls, and autonomy metrics for stability and cost-aware progress.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-121011?logo=gnubash&logoColor=white)
