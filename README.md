@@ -4,7 +4,7 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 ## Tech Stack
 
-**Languages:** TypeScript · Python · C# · SQL
+**Languages:** TypeScript · Python · Swift · C# · SQL
 
 **Frontend:** Next.js · SvelteKit · TailwindCSS · React Flow
 
@@ -15,6 +15,30 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 **Infrastructure:** Supabase · PostgreSQL · SQLite · Fly.io · Vercel
 
 ## Featured Projects
+
+### [**Samantha**](https://github.com/thebrownproject/samantha)
+
+Voice-first AI companion for macOS. Floating presence widget, natural realtime conversation, persistent memory, and local computer tools. Python backend with OpenAI Agents SDK, Swift frontend with AVAudioEngine
+
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+
+---
+
+### [**DeepVoice**](https://github.com/thebrownproject/deepvoice)
+
+Voice-first AI desktop companion for macOS. Pure Swift with a single WebSocket to Deepgram Voice Agent API for server-side STT + LLM + TTS orchestration. BYO LLM via OpenRouter, 8 client-side tools, dev console UI
+
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?logo=deepgram&logoColor=black)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+
+---
 
 ### [**Anima**](https://github.com/thebrownproject/anima)
 
