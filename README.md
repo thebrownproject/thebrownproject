@@ -6,13 +6,13 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 **Languages:** TypeScript · Python · Swift · C# · SQL
 
-**Frontend:** Next.js · SvelteKit · TailwindCSS · React Flow
+**Frontend:** Next.js · SvelteKit · SwiftUI · TailwindCSS · React Flow
 
 **Backend:** Node.js · FastAPI · ASP.NET Core · WebSockets
 
-**AI/ML:** Claude API · Claude Agent SDK · OpenAI API · LangChain · RAG Pipelines · Vector Search · OCR
+**AI/ML:** Claude API · Claude Agent SDK · OpenAI API · Deepgram Voice Agent API · LangChain · RAG Pipelines · Vector Search · OCR
 
-**Infrastructure:** Supabase · PostgreSQL · SQLite · Fly.io · Vercel
+**Infrastructure:** Supabase · PostgreSQL · SQLite · Fly.io · Vercel · Sprites.dev
 
 ## Featured Projects
 
@@ -50,6 +50,31 @@ Personal AI computer for document intelligence. Each user gets a persistent VM r
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
 ![Fly.io](https://img.shields.io/badge/Fly.io-24175B?logo=flydotio&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
+### [**Looped**](https://github.com/thebrownproject/looped)
+
+Your AI employee with its own computer. Each user gets a persistent cloud VM running an autonomous agent that remembers everything, executes tools, and presents results as workspace cards instead of chat messages
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-24175B?logo=flydotio&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
+### [**DeepVoice**](https://github.com/thebrownproject/deepvoice)
+
+Voice-first AI desktop companion for macOS. Pure Swift app with a floating companion orb, full-duplex voice conversation via Deepgram Voice Agent API, BYO LLM through OpenRouter, and 8 client-side tools that execute locally on your Mac
+
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?logo=swift&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?logo=deepgram&logoColor=black)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 
 ---
 
