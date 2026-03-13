@@ -16,6 +16,18 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 ## Featured Projects
 
+### [**DeepVoice**](https://github.com/thebrownproject/deepvoice)
+
+Voice-first AI companion for macOS with a floating liquid glass orb that listens, thinks, and speaks. Single WebSocket to Deepgram Voice Agent API handles all orchestration server-side. BYO any LLM via OpenRouter, 8 tools execute locally on your Mac
+
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?logo=swift&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?logo=deepgram&logoColor=black)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+
+---
+
 ### [**Samantha**](https://github.com/thebrownproject/samantha)
 
 Voice-first AI companion for macOS. Floating presence widget, natural realtime conversation, persistent memory, and local computer tools. Python backend with OpenAI Agents SDK, Swift frontend with AVAudioEngine
@@ -29,33 +41,9 @@ Voice-first AI companion for macOS. Floating presence widget, natural realtime c
 
 ---
 
-### [**DeepVoice**](https://github.com/thebrownproject/deepvoice)
-
-Voice-first AI desktop companion for macOS. Pure Swift with a single WebSocket to Deepgram Voice Agent API for server-side STT + LLM + TTS orchestration. BYO LLM via OpenRouter, 8 client-side tools, dev console UI
-
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?logo=deepgram&logoColor=black)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
-
----
-
-### [**Anima**](https://github.com/thebrownproject/anima)
-
-Personal AI computer for document intelligence. Each user gets a persistent VM running an autonomous agent that learns, remembers, and renders results to a streamable canvas
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-D97757?logo=anthropic&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-24175B?logo=flydotio&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-
----
-
 ### [**Looped**](https://github.com/thebrownproject/looped)
 
-Your AI employee with its own computer. Each user gets a persistent cloud VM running an autonomous agent that remembers everything, executes tools, and presents results as workspace cards instead of chat messages
+AI employee with its own computer. Persistent cloud VMs run a TypeScript coding agent per user with multi-provider LLM support via OpenRouter. Workspace grid UI presents files, documents, and results as draggable cards instead of chat messages
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
@@ -66,15 +54,16 @@ Your AI employee with its own computer. Each user gets a persistent cloud VM run
 
 ---
 
-### [**DeepVoice**](https://github.com/thebrownproject/deepvoice)
+### [**Anima**](https://github.com/thebrownproject/anima)
 
-Voice-first AI desktop companion for macOS. Pure Swift app with a floating companion orb, full-duplex voice conversation via Deepgram Voice Agent API, BYO LLM through OpenRouter, and 8 client-side tools that execute locally on your Mac
+Document intelligence platform where each user gets a dedicated VM running a Claude-powered agent with a memory daemon that learns across sessions. Agent renders structured extraction results to a streamable canvas
 
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?logo=swift&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?logo=deepgram&logoColor=black)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-D97757?logo=anthropic&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-24175B?logo=flydotio&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ---
 
