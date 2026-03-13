@@ -18,7 +18,7 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 ### [**DeepVoice**](https://github.com/thebrownproject/deepvoice)
 
-Voice-first AI agent for macOS that can run your computer. Floating liquid glass orb with full-duplex conversation, shell access, file I/O, screen capture, and AppleScript automation. Pure Swift, single WebSocket to Deepgram Voice Agent API, BYO any LLM via OpenRouter
+Voice-first AI agent for macOS that can run your computer. Floating liquid glass orb with voice-first interaction, shell access, file I/O, screen capture, and AppleScript automation. Pure Swift, single WebSocket to Deepgram Voice Agent API, BYO any LLM via OpenRouter
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?logo=swift&logoColor=white)
