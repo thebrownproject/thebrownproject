@@ -22,7 +22,7 @@ AI agent that reads architecture drawings. Extracts structured data from IFC mod
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
-![IFC BIM](https://img.shields.io/badge/IFC_BIM-0078D4?logoColor=white)
+![BIM](https://img.shields.io/badge/BIM-0078D4?logo=bim&logoColor=white)
 
 ---
 
