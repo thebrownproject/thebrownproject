@@ -16,6 +16,17 @@ Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of p
 
 ## Featured Projects
 
+### [**BuildBrain**](https://github.com/thebrownproject/buildbrain)
+
+AI agent that reads architecture drawings. Extracts structured data from IFC models and PDF construction documents, cross-validates between sources, and helps builders with quantity takeoffs. Claude Code plugin with IfcOpenShell and pdfplumber CLI tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![IfcOpenShell](https://img.shields.io/badge/IfcOpenShell-006400?logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
+![IFC](https://img.shields.io/badge/IFC/BIM-0078D4?logoColor=white)
+
+---
+
 ### [**DeepVoice**](https://github.com/thebrownproject/deepvoice)
 
 Voice-first AI agent for macOS that can run your computer. Floating liquid glass orb with voice-first interaction, shell and file access, screen capture, and AppleScript automation. Pure Swift, single WebSocket to Deepgram Voice Agent API, BYO any LLM via OpenRouter
