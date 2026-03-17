@@ -26,6 +26,18 @@ AI agent that reads architecture drawings. Extracts structured data from IFC mod
 
 ---
 
+### [**Buildkit**](https://github.com/thebrownproject/buildkit)
+
+AI-powered IFC design toolkit with browser-based viewer. CLI tools create and query IFC building models from natural language, rendered in a 3D viewer with spatial tree, property inspector, and visibility toggles. [Live demo](https://thebrownproject.github.io/buildkit/)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
+![BIM](https://img.shields.io/badge/BIM-0078D4?logo=bim&logoColor=white)
+
+---
+
 ### [**DeepVoice**](https://github.com/thebrownproject/deepvoice)
 
 Voice-first AI agent for macOS that can run your computer. Floating liquid glass orb with voice-first interaction, shell and file access, screen capture, and AppleScript automation. Pure Swift, single WebSocket to Deepgram Voice Agent API, BYO any LLM via OpenRouter
