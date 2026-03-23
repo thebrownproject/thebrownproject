@@ -16,27 +16,13 @@ Full-stack engineer with 10+ years of project delivery experience from architect
 
 ## Featured Projects
 
-### [**BuildBrain**](https://github.com/thebrownproject/buildbrain)
+### [**BuildBrain**](https://github.com/thebrownproject/buildbrain) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white) ![BIM](https://img.shields.io/badge/BIM-0078D4?logo=bim&logoColor=white)
 
 AI agent that reads architecture drawings. Extracts structured data from IFC models and PDF construction documents, cross-validates between sources, and helps builders with quantity takeoffs. Claude Code plugin with IfcOpenShell and pdfplumber CLI tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
-![BIM](https://img.shields.io/badge/BIM-0078D4?logo=bim&logoColor=white)
-
----
-
-### [**Buildkit**](https://github.com/thebrownproject/buildkit)
+### [**Buildkit**](https://github.com/thebrownproject/buildkit) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white) ![BIM](https://img.shields.io/badge/BIM-0078D4?logo=bim&logoColor=white)
 
 AI-powered IFC design toolkit with browser-based viewer. CLI tools create and query IFC building models from natural language, rendered in a 3D viewer with spatial tree, property inspector, and visibility toggles. [Live demo](https://thebrownproject.github.io/buildkit/)
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
-![BIM](https://img.shields.io/badge/BIM-0078D4?logo=bim&logoColor=white)
-
----
 
 ### [**DeepVoice**](https://github.com/thebrownproject/deepvoice)
 
