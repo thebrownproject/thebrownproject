@@ -6,9 +6,9 @@ Full-stack engineer with 10+ years of project delivery experience from architect
 
 **Languages:** TypeScript · Python · Swift · C# · SQL
 
-**Frontend:** Next.js · SvelteKit · SwiftUI · TailwindCSS · React Flow
+**Frontend:** Next.js · SvelteKit · TailwindCSS
 
-**Backend:** Node.js · FastAPI · ASP.NET Core · WebSockets
+**Backend:** Node.js · FastAPI · WebSockets
 
 **AI/ML:** Claude API · Claude Agent SDK · OpenAI API · Deepgram Voice Agent API · LiveKit · OpenRouter · RAG Pipelines · Vector Search · OCR
 
