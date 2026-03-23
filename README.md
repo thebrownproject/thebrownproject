@@ -10,7 +10,7 @@ Full-stack engineer with 10+ years of project delivery experience from architect
 
 **Backend:** Node.js · FastAPI · ASP.NET Core · WebSockets
 
-**AI/ML:** Claude API · Claude Agent SDK · OpenAI API · Deepgram Voice Agent API · LangChain · RAG Pipelines · Vector Search · OCR
+**AI/ML:** Claude API · Claude Agent SDK · OpenAI API · Deepgram Voice Agent API · LiveKit · OpenRouter · RAG Pipelines · Vector Search · OCR
 
 **Infrastructure:** Supabase · PostgreSQL · SQLite · Fly.io · Vercel · Sprites.dev
 
