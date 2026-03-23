@@ -1,6 +1,6 @@
 # Hi, I'm Fraser
 
-Full-stack engineer with a Certificate IV in IT (Programming) and 10+ years of project delivery experience from architecture. Building AI-powered applications and developer tools, with a focus on autonomous agents and real-time systems.
+Full-stack engineer with 10+ years of project delivery experience from architecture. Building AI-powered applications and developer tools, with a focus on autonomous agents and real-time systems.
 
 ## Tech Stack
 
@@ -60,6 +60,19 @@ Voice-first AI companion for macOS. Floating presence widget, natural realtime c
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+
+---
+
+### [**SpeechKit**](https://github.com/thebrownproject/speechkit)
+
+Voice-first AI agent with sandboxed tool execution. Talk to an LLM that runs shell commands in an isolated Firecracker microVM via Sprites. LiveKit WebRTC transport with Deepgram STT/TTS and any model via OpenRouter
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FF2D55?logo=livekit&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?logo=deepgram&logoColor=black)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?logoColor=white)
+![Sprites.dev](https://img.shields.io/badge/Sprites.dev-FF6B00?logoColor=white)
 
 ---
 
@@ -162,6 +175,16 @@ Local text-to-speech for macOS. Copy text in any app, then use Play Copied Text 
 
 Agent orchestration plugin for Claude Code with multi-session persistence, structured exploration, and multi-agent execution via the Ralph loop
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
+
+---
+
+### [**Walkie-Talkie**](https://github.com/thebrownproject/walkie-talkie)
+
+Inter-session messaging for Claude Code. HTTP broker lets multiple Claude sessions discover each other, send direct messages, broadcast, and coordinate via pub/sub channels. Built for multi-agent workflows where agents need to talk across terminal windows
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
 
 ---
