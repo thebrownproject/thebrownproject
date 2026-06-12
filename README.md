@@ -1,6 +1,6 @@
 # Hi, I'm Fraser
 
-Full-stack engineer doing AI Ops at BuildPass. I build autonomous agents that do real jobs, like investigating support tickets, drafting CS replies and maintaining the company wiki. I also build the platforms that run them so a fleet of agents can work unattended while staying observable, auditable and easy to operate.
+Full-stack engineer doing AI Ops at BuildPass. I build autonomous agents that do real jobs, like investigating support tickets, drafting CS replies and maintaining the company wiki. I also build the platforms that run them, so a agents can work unattended while staying observable and auditable.
 
 Mostly TypeScript, Next.js, shadcn/ui, Neon, Vercel, Fly.io, and a lot of Claude.
 
