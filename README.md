@@ -1,18 +1,10 @@
 # Hi, I'm Fraser
 
-Full-stack engineer working in AI Ops at BuildPass. Building AI-powered applications and developer tools, with a focus on autonomous agents and agentic systems.
+Full-stack engineer doing AI Ops at BuildPass. I build autonomous agents that do real jobs (investigating support tickets, drafting CS replies, maintaining the company wiki) and the orchestration and observability to run them unattended and trust the results.
 
-## Tech Stack
+Mostly TypeScript, Next.js, shadcn/ui, Neon, Vercel, Fly.io, and a lot of Claude.
 
-**Languages:** TypeScript · Python · Swift · C# · SQL
-
-**Frontend:** Next.js · SvelteKit · TailwindCSS
-
-**Backend:** Node.js · FastAPI · WebSockets
-
-**AI/ML:** Claude API · Claude Agent SDK · OpenAI API · Deepgram Voice Agent API · LiveKit · OpenRouter · RAG Pipelines · Vector Search · OCR
-
-**Infrastructure:** Supabase · PostgreSQL · SQLite · Fly.io · Vercel · Sprites.dev
+Currently deep in agent harnesses: Claude Agent SDK, Vercel AI SDK, MCP servers, and lately Mastra.
 
 ## Featured Projects
 
