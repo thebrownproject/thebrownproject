@@ -1,6 +1,6 @@
 # Hi, I'm Fraser
 
-Full-stack engineer with 10+ years of project delivery experience from architecture. Building AI-powered applications and developer tools, with a focus on autonomous agents and real-time systems.
+Full-stack engineer working in AI Ops at BuildPass. Building AI-powered applications and developer tools, with a focus on autonomous agents and agentic systems.
 
 ## Tech Stack
 
